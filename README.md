@@ -1,2 +1,2 @@
 # COPGARD
-Site web de la société COPGARD/ TCHAD
+Site web temporaire de la société COPGARD/ TCHAD
